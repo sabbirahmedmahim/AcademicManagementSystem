@@ -1,6 +1,6 @@
 # 🎓 Academic Management System
 
-
+Java-based Academic Performance & Management System built with Swing, FlatLaf, MySQL, and JDBC.
 
 ---
 
