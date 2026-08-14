@@ -1,8 +1,6 @@
 # 🎓 Academic Management System
 
-A desktop-based **Student Management System** developed as a **3rd-semester Object-Oriented Programming (OOP) project** using Java Swing, MySQL, and JDBC.
 
-The system provides separate dashboards for **Students, Faculty, and Admins** to manage academic information, results, attendance, and requests.
 
 ---
 
