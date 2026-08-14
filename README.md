@@ -113,16 +113,5 @@ classDiagram
 * MySQL
 * Maven
 
-### Database
-
-```text
-Host: localhost
-
----
-
-## 👨‍💻 Academic Project
-
-**Course:** Object-Oriented Programming (OOP)
-**Project Type:** Desktop Application
 **Language:** Java
 **Database:** MySQL
