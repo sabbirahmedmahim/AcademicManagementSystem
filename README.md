@@ -117,11 +117,6 @@ classDiagram
 
 ```text
 Host: localhost
-Port: 3306
-Username: root
-Password: ""
-Database: academic_management_system
-```
 
 ---
 
